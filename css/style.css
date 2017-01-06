@@ -1759,3 +1759,20 @@ img {
   background-color: currentColor;
 }
 
+.blockquote {
+    font-size:16px; 
+    padding:18px 20px 1px 20px;
+    margin-left:3px; 
+    margin-bottom:40px;
+    background:#f2f1f6;
+}	
+
+.blockquote:before {
+    color: #c73401;
+    font-size: 30px;
+    line-height: 0.5em;
+    margin-right: 0.27em;
+    content: "\f10d";
+    font-family: FontAwesome;
+    float:left;
+}
