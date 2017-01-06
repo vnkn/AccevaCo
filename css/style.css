@@ -1765,6 +1765,7 @@ img {
     margin-left:3px; 
     margin-bottom:40px;
     background:#f2f1f6;
+	text-color:blue
 }	
 
 .blockquote:before {
@@ -1775,4 +1776,5 @@ img {
     content: "\f10d";
     font-family: FontAwesome;
     float:left;
+	text-color: black
 }
